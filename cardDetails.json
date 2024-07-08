@@ -1,0 +1,14 @@
+{
+    "card1": {
+      "cardNumber": "4929 0000 0000 6",
+      "cardholderName": "Mahrukh Tester",
+      "expiryDate": "12/25",
+      "cvv": "123"
+    },
+    "card2": {
+      "cardNumber": "4929 0000 0555 9",
+      "expiryDate": "06/25",
+      "cvv": "123"
+    }
+  }
+  
